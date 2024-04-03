@@ -1,0 +1,22 @@
+# Ignore node_modules directory
+node_modules
+
+# Ignore development files
+*.log
+*.swp
+
+# Ignore dependency files
+package-lock.json
+yarn.lock
+
+# Ignore build output
+/build
+/dist
+
+# Ignore editor specific files
+.vscode
+.idea
+
+# Ignore Docker related files
+.dockerignore
+Dockerfile
