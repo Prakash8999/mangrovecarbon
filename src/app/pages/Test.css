@@ -1,0 +1,53 @@
+/* Test.css */
+.relative {
+	position: relative;
+  }
+  
+  .bg-dark {
+	background-color: #222222;
+  }
+  
+  .absolute {
+	position: absolute;
+  }
+  
+  .bottom-0 {
+	bottom: 0;
+  }
+  
+  .left-0 {
+	left: 0;
+  }
+  
+  .w-full {
+	width: 100%;
+  }
+  
+  .h-24vh {
+	height: 24vh;
+  }
+  
+  .bottom-40 {
+	bottom: 40px;
+  }
+  
+  .left-20 {
+	left: 20px;
+  }
+  
+  .w-32 {
+	width: 32px;
+  }
+  
+  .h-10 {
+	height: 10px;
+  }
+  
+  .top-0 {
+	top: 0;
+  }
+  
+  .h-10vh {
+	height: 10vh;
+  }
+  
